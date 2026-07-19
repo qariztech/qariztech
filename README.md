@@ -144,21 +144,23 @@
 
 <br/><br/>
 
-<!-- ▓ 3D ISOMETRIC CONTRIB GRID ▓ -->
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=qariztech&theme=radical" width="96%"/>
+<!-- ▓ CYBERPUNK "2077" SUMMARY CARDS — live-rendering, zero setup ▓ -->
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qariztech&theme=2077"/>
 
 <br/><br/>
 
-<!-- ▓ TROPHY CABINET ▓ -->
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qariztech&theme=2077"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qariztech&theme=2077"/>
+
+<br/><br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qariztech&theme=2077"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qariztech&theme=2077&utcOffset=5"/>
+
+<br/><br/>
+
+<!-- ▓ TROPHY CABINET (renders on GitHub via camo proxy) ▓ -->
 <img src="https://github-profile-trophy.vercel.app/?username=qariztech&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="96%"/>
-
-<br/><br/>
-
-<!-- ▓ CONTRIBUTION SNAKE (needs Platane/snk action — see setup note) ▓ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qariztech/qariztech/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/qariztech/qariztech/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 
 </div>
 
