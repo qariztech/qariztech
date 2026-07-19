@@ -1,26 +1,30 @@
-<!-- HEADER BANNER -->
+<!-- ULTIMATE CYBERPUNK HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/canvas/set?type=waving&color=00ff66&height=220&section=header&text=ANDROID%20ARCHITECT&fontSize=50&fontColor=0d1117&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/canvas/set?type=slice&color=bg:0d1117,00FF66,7F52FF&height=280&section=header&text=CORE%20DUMPED:%20ANDROID&fontSize=45&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" alt="Ultimate Header" />
 </p>
 
-<!-- TYPING EFFECT SUBTITLE -->
-<p align="center">
+<!-- DYNAMIC HUD / TERMINAL STATUS -->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Android+Developer;ROM+%26+Kernel+Modder;Reverse+Engineer;Jetpack+Compose+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=500&color=00FF66&center=true&vCenter=true&width=600&lines=>>+INITIALIZING+OVERCLOCK...;>>+ZYGOTE+INJECTION:+SUCCESSFUL;>>+COMPILING+CUSTOM+KERNEL...;>>+UI%2FUX:+JETPACK+COMPOSE+MAXED" alt="System Terminal" />
   </a>
-</p>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rooted-Yes-brightgreen?style=flat-square&logo=android" alt="Rooted Status" />
-  <img src="https://img.shields.io/badge/SELinux-Enforcing-blue?style=flat-square" alt="SELinux Status" />
-  <img src="https://img.shields.io/badge/Main_IDE-Android_Studio-orange?style=flat-square&logo=android-studio" alt="IDE" />
+  <img src="https://img.shields.io/badge/SECURITY-SELinux_Permissive-red?style=for-the-badge&logo=android" alt="Security Mode" />
+  <img src="https://img.shields.io/badge/CORE_ENGINE-AOSP_16_TINKERER-7F52FF?style=for-the-badge&logo=google" alt="Core Engine" />
+  <img src="https://img.shields.io/badge/RUNTIME-ART_OVERRIDE-00E676?style=for-the-badge" alt="Runtime" />
 </p>
 
 ---
 
-### 👤 About Me
+## ⚡ SYSTEM ARCHITECT INFO
 
-```text
-⚡ System.loadLibrary("human_dev_soul");
-🤖 Breaking Android sandboxes by day, writing clean Jetpack Compose UIs by night.
-🛠️ Deeply fascinated by AOSP internals, custom kernel optimization, and reverse engineering.
+```kt
+object DeveloperProfile {
+    const val alias = "RootUser"
+    val specialities = listOf("AOSP Dev", "Kernel Optimization", "Reverse Engineering")
+    val currentFocus = "Breaking sandboxes & building bleeding-edge Jetpack Compose UIs"
+    
+    fun getStatus() = "Overclocking standard Android frameworks to their absolute limits."
+}
