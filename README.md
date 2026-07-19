@@ -131,20 +131,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff00ff,50:00ffff,100:00ff9f" width="100%"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=qariztech&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=ff0055&text_color=00ffff&ring_color=bd00ff&include_all_commits=true&count_private=true"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qariztech&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=00ffff&langs_count=8"/>
+<!-- ▓ LIVE HACKER QUOTE — pulls a fresh quote on every load ▓ -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
 
 <br/><br/>
 
+<!-- ▓ COMMIT STREAK — live, auto-updates ▓ -->
 <img src="https://streak-stats.demolab.com?user=qariztech&theme=black-ice&hide_border=true&background=0d1117&ring=ff0055&fire=00ff9f&currStreakLabel=00ffff&sideLabels=00ffff&currStreakNum=00ff9f&sideNums=bd00ff&dates=8b949e"/>
 
 <br/><br/>
 
+<!-- ▓ ACTIVITY GRAPH — live, auto-updates ▓ -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=qariztech&bg_color=0d1117&color=00ff9f&line=ff0055&point=00ffff&area=true&area_color=bd00ff&hide_border=true&custom_title=%E2%96%88%20NEURAL%20ACTIVITY%20MONITOR%20%E2%96%88" width="96%"/>
 
 <br/><br/>
 
-<!-- ▓ CYBERPUNK "2077" SUMMARY CARDS — live-rendering, zero setup ▓ -->
+<!-- ▓ CYBERPUNK "2077" SUMMARY CARDS — live-rendering, auto-updates, zero setup ▓ -->
 <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qariztech&theme=2077"/>
 
 <br/><br/>
@@ -157,12 +159,80 @@
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qariztech&theme=2077"/>
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qariztech&theme=2077&utcOffset=5"/>
 
-<br/><br/>
+</div>
 
-<!-- ▓ TROPHY CABINET (renders on GitHub via camo proxy) ▓ -->
-<img src="https://github-profile-trophy.vercel.app/?username=qariztech&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="96%"/>
+<br/>
+
+<!-- ═══════════ ▓▓ SECTION DIVIDER ANIMATION ▓▓ ═══════════ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=FF0055&center=true&vCenter=true&width=900&height=45&lines=%5B+RECON+%5D+enumerate+%E2%86%92+exploit+%E2%86%92+escalate+%E2%86%92+persist+%E2%86%92+exfil;%5B+CREED+%5D+with+great+root+comes+great+responsibility;%5B+RULE+%5D+trust+nothing+%C2%B7+verify+everything+%C2%B7+patch+relentlessly" alt="cybersec mantra"/>
 
 </div>
+
+<br/>
+
+<!-- ═══════════ ▓▓ CYBERSEC SKILL TREE / CERT ROADMAP ▓▓ ═══════════ -->
+<div align="center">
+
+## 🛰️ THREAT_INTEL // SKILL_TREE 🛰️
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:ff0055,50:bd00ff,100:00ffff" width="100%"/>
+
+**`> cert_roadmap --track offensive-mobile`**
+
+<img src="https://img.shields.io/badge/CompTIA_Security%2B-%E2%96%B6_QUEUED-ffca28?style=for-the-badge&logo=comptia&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/eJPTv2-%E2%96%B6_QUEUED-00ff9f?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PNPT-%E2%96%B6_TARGET-00ffff?style=for-the-badge&logo=offsec&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/OSCP-%E2%98%A0_FINAL_BOSS-ff0055?style=for-the-badge&logo=offsec&logoColor=white&labelColor=0d1117"/>
+<br/>
+<img src="https://img.shields.io/badge/HackTheBox-GRINDING-9fef00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TryHackMe-STREAK_ON-bd00ff?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/OWASP_MASVS-STUDYING-00ffff?style=for-the-badge&logo=owasp&logoColor=black&labelColor=0d1117"/>
+
+<br/><br/>
+
+**`> focus_areas --domain android-security`**
+
+</div>
+
+```console
+┌──(root㉿mainframe)-[~/skilltree]
+└─# skill --tree --show-progress
+
+  ANDROID INTERNALS
+   ├─[▓▓▓▓▓▓▓▓░░] 80%  ADB · Fastboot · partition layout
+   ├─[▓▓▓▓▓▓▓░░░] 70%  Magisk / KernelSU module dev
+   ├─[▓▓▓▓▓░░░░░] 55%  boot.img · vbmeta · AVB patching
+   └─[▓▓▓▓░░░░░░] 40%  Custom kernel compilation
+
+  APP SECURITY / RE
+   ├─[▓▓▓▓▓▓░░░░] 60%  APK decompile (jadx · apktool · smali)
+   ├─[▓▓▓▓▓░░░░░] 50%  Frida runtime hooking & SSL unpinning
+   ├─[▓▓▓░░░░░░░] 35%  Static analysis w/ Ghidra
+   └─[▓▓▓░░░░░░░] 30%  Root / integrity detection bypass
+
+  OFFENSIVE FUNDAMENTALS
+   ├─[▓▓▓▓▓░░░░░] 55%  Linux privesc & enumeration
+   ├─[▓▓▓▓░░░░░░] 45%  Network recon (nmap · burp · wireshark)
+   └─[▓▓░░░░░░░░] 25%  Exploit dev & fuzzing
+```
+
+<br/>
+
+<!-- ═══════════ ▓▓ NEOFETCH RICER CARD ▓▓ ═══════════ -->
+```console
+                    ___                     operator@mainframe
+                  //   \\                   ──────────────────────
+                 ||     ||    ▓▓▓▓▓▓▓▓       OS........: Arch Linux (btw) + Android
+                  \\___//     ▓▓▓▓▓▓▓▓       Kernel....: custom -zen · rooted everything
+                  /* * *\     ▓▓▓▓▓▓▓▓       WM........: Hyprland (animated · blurred · ricing)
+                 | () () |    ░░░░░░░░       Shell.....: zsh + starship + fzf
+                  \  ^  /     ░░░░░░░░       Terminal..: kitty · font: JetBrainsMono NF
+                   |||||      ░░░░░░░░       Editor....: neovim (200+ plugins, opens in 40ms)
+                   |||||                     Daily.....: flashing ROMs · writing modules
+    root@mainframe · uptime: since first bootloop · pkgs: too many · vibe: maximum
+```
 
 <br/>
 
